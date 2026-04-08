@@ -1,7 +1,7 @@
 # 🚦 YOLO Tabanlı Trafik Tabelası Tanıma Modeli
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
-![YOLOv](https://img.shields.io/badge/Model-YOLOvX-orange)
+![YOLOv](https://img.shields.io/badge/Model-YOLOv8-orange)
 ![OpenCV](https://img.shields.io/badge/OpenCV-4.x-green?logo=opencv)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
